@@ -72,7 +72,6 @@ An elegant and visually appealing front-end design project showcasing responsive
 ## 📬 Connect With Me
 
 - GitHub: [@KixxFTW](https://github.com/KixxFTW)  
-- Email: *Coming soon*  
 
 ---
 
