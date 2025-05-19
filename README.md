@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jethro Valdez (KixxFTW)
+# 👋 Hello, I'm Mark Jethro Valdez (KixxFTW)
 
 **Computer Engineering Student | Software Developer | Tech Enthusiast**  
 📍 Philippines
