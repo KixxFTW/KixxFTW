@@ -88,7 +88,7 @@ Explore it yourself here:
 ## 📬 Connect With Me
 
 - GitHub: [@KixxFTW](https://github.com/KixxFTW)  
-- Email: [valdezjethro469@gmail.com](mailto:valdezjethro469@gmail.com)  
+- Email: [jethrovaldez20@gmail.com](mailto:jethrovaldez20@gmail.com)  
 
 ---
 
