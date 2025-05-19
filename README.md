@@ -33,6 +33,9 @@
 
 ## 🧪 Projects & Highlights
 
+### 🛍️ UCU Merchandise Hub (HTML)  
+A university merchandise web platform developed for showcasing products with a user-friendly interface.
+
 ### 📚 Library System (C)  
 A console-based library management system designed for efficient book lending and return processes. Features modular design and robust file handling.
 
@@ -42,8 +45,7 @@ A clean, responsive login form built with semantic HTML and modern CSS, serving 
 ### 🌼 Flower Page (HTML/CSS)  
 An elegant and visually appealing front-end design project showcasing responsive layouts and UI principles.
 
-### 🛍️ UCU Merchandise Hub (HTML)  
-A university merchandise web platform developed for showcasing products with a user-friendly interface.
+
 
 ---
 
