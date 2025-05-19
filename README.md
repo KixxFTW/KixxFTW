@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mark Jethro Valdez (KixxFTW)
+# 👋 Hi, I'm Jethro Valdez (KixxFTW)
 
 🎓 Computer Engineering Student  
 📍 Philippines  
@@ -14,6 +14,14 @@
 - **React** – Dynamic and component-based front-end development  
 - **HTML & CSS** – Responsive web design, UI/UX principles  
 - **MySQL** – Relational database design, queries, and optimization  
+
+---
+
+## 💻 Tech Stack
+
+| Frontend          | Backend          | Database      | Tools & Platforms        |
+|-------------------|------------------|---------------|-------------------------|
+| React, HTML, CSS  | C, C++, C#, Python | MySQL         | Git, GitHub, VS Code, Windows |
 
 ---
 
@@ -56,7 +64,7 @@ An academic web application for showcasing and organizing university-branded mer
 ## 📬 Let's Connect
 
 - 💼 GitHub: [@KixxFTW](https://github.com/KixxFTW)  
-- 📧 Email:@[JethroValdez](Valdezjethro469@gmail.com)
+- 📧 *Coming soon: Personal portfolio or email contact*
 
 ---
 
