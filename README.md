@@ -1,54 +1,63 @@
-# 👋 Hello, I'm Jethro Valdez (KixxFTW)
+# 👋 Hi, I'm Jethro Valdez (KixxFTW)
 
-🎓 **Computer Engineering Student**  
-📍 Based in the Philippines  
-💻 Passionate about software development, system design, and web technologies.
-
----
-
-## 🧠 Specialties
-
-- **C** – Systems programming, data structures, file handling  
-- **C++** – Object-oriented programming, algorithms, performance-focused applications  
-- **C#** – Windows applications, Unity development  
-- **Python** – Scripting, automation, and OOP concepts  
-- **React** – Building dynamic, component-based web user interfaces  
-- **HTML & CSS** – Web design, UI/UX layout, responsive front-end development  
-- **MySQL** – Database design, querying, data management for web and software apps
+🎓 Computer Engineering Student  
+📍 Philippines  
+💡 Enthusiastic about software development, systems architecture, and web technologies.
 
 ---
 
-## 🛠️ Projects & Repositories
+## 🧠 Core Competencies
 
-Here are some of the projects I've been working on:
-
-### 📚 Library System Management
-A console-based library management system written in C, designed to streamline the borrowing and returning of books. This project includes flowcharts and documentation to illustrate the system's design and functionality.
-
-### 🔐 Login Interface
-A simple and responsive login form created using HTML and CSS. This project serves as a foundational component for user authentication in web applications.
-
-### 🌸 Flower
-An aesthetically pleasing web page developed with HTML and CSS, showcasing design principles and front-end development skills.
-
-### 🛍️ UCU Merchandise Hub
-A web application aimed at managing and displaying merchandise items for UCU. Built using HTML, this project demonstrates skills in web development and user interface design.
+- **C / C++** – Systems programming, algorithms, performance optimization  
+- **C#** – Desktop applications, Unity development  
+- **Python** – Automation, scripting, object-oriented design  
+- **React** – Dynamic and component-based front-end development  
+- **HTML & CSS** – Responsive web design, UI/UX principles  
+- **MySQL** – Relational database design, queries, and optimization  
 
 ---
 
-## 🌱 Currently Learning
+## 🧪 Projects & Highlights
 
-- Advanced C and C++ programming techniques  
-- Object-Oriented Programming in C# and Python  
-- React component architecture and state management  
-- MySQL optimization and integration with web apps
+### 📚 Library System (C)
+A console-based library management system designed to manage book loans and returns efficiently, featuring structured file handling and modular design.
+
+### 🔐 Login Interface (HTML/CSS)
+A clean, responsive login form component suitable for integration into modern web applications.
+
+### 🌼 Flower Page (HTML/CSS)
+Aesthetic, creative front-end layout demonstrating HTML/CSS capabilities in design and responsive formatting.
+
+### 🛍️ UCU Merchandise Hub (HTML)
+An academic web application for showcasing and organizing university-branded merchandise.
 
 ---
 
-## 📫 Contact Me
+## 📈 GitHub Insights
 
-Feel free to reach out or explore my work:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KixxFTW&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=KixxFTW&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KixxFTW&layout=compact&hide_title=true&theme=default" alt="Top Languages" />
+</p>
 
-- GitHub: [KixxFTW](https://github.com/KixxFTW)
+---
 
-Let's connect and collaborate on exciting projects!
+## 🌱 Currently Exploring
+
+- Advanced OOP in C++ and C#  
+- Full-stack development with React and databases  
+- Clean code practices and software engineering principles
+
+---
+
+## 📬 Let's Connect
+
+- 💼 GitHub: [@KixxFTW](https://github.com/KixxFTW)  
+- 📧 Email:@[JethroValdez](Valdezjethro469@gmail.com)
+
+---
+
+_Thank you for visiting my profile!_
