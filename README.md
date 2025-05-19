@@ -19,9 +19,16 @@
 
 ## 💻 Tech Stack
 
-| Frontend          | Backend          | Database      | Tools & Platforms        |
-|-------------------|------------------|---------------|-------------------------|
-| React, HTML, CSS  | C, C++, C#, Python | MySQL         | Git, GitHub, VS Code, Windows |
+<p>
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
 
 ---
 
@@ -38,34 +45,3 @@ Aesthetic, creative front-end layout demonstrating HTML/CSS capabilities in desi
 
 ### 🛍️ UCU Merchandise Hub (HTML)
 An academic web application for showcasing and organizing university-branded merchandise.
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KixxFTW&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=KixxFTW&theme=default" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KixxFTW&layout=compact&hide_title=true&theme=default" alt="Top Languages" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced OOP in C++ and C#  
-- Full-stack development with React and databases  
-- Clean code practices and software engineering principles
-
----
-
-## 📬 Let's Connect
-
-- 💼 GitHub: [@KixxFTW](https://github.com/KixxFTW)  
-- 📧 *Coming soon: Personal portfolio or email contact*
-
----
-
-_Thank you for visiting my profile!_
