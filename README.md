@@ -33,9 +33,6 @@
 
 ## 🧪 Projects & Highlights
 
-### 🛍️ UCU Merchandise Hub (HTML)  
-A university merchandise web platform developed for showcasing products with a user-friendly interface.
-
 ### 📚 Library System (C)  
 A console-based library management system designed for efficient book lending and return processes. Features modular design and robust file handling.
 
@@ -45,7 +42,8 @@ A clean, responsive login form built with semantic HTML and modern CSS, serving 
 ### 🌼 Flower Page (HTML/CSS)  
 An elegant and visually appealing front-end design project showcasing responsive layouts and UI principles.
 
-
+### 🛍️ UCU Merchandise Hub (HTML)  
+A university merchandise web platform developed for showcasing products with a user-friendly interface.
 
 ---
 
@@ -69,9 +67,28 @@ An elegant and visually appealing front-end design project showcasing responsive
 
 ---
 
+## 📚 Full Stack Developer Roadmap
+
+To deepen my skills and stay current with industry best practices, I follow the comprehensive  
+[Full Stack Developer Roadmap](https://roadmap.sh/full-stack) provided by roadmap.sh.  
+
+This roadmap outlines essential technologies, tools, and concepts to master full-stack development, including:
+
+- Frontend technologies and frameworks  
+- Backend languages and architectures  
+- Databases and caching  
+- DevOps and cloud services  
+- Testing and best practices
+
+Explore it yourself here:  
+[![Full Stack Developer Roadmap](https://img.shields.io/badge/Full%20Stack%20Roadmap-roadmap.sh-blue?style=for-the-badge&logo=roadmap)](https://roadmap.sh/full-stack)
+
+---
+
 ## 📬 Connect With Me
 
 - GitHub: [@KixxFTW](https://github.com/KixxFTW)  
+- Email: *Coming soon*  
 
 ---
 
